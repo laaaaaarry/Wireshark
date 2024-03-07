@@ -4,14 +4,14 @@
 
 The Wireshark Network Analysis project aimed to Utilize Wireshark to analyze network traffic & detect SYN flood attack
 
-### Skills Learned
+## Skills Learned
 
 - Open & Analyze PCAP files in wireshark.
 - Creating useful filters for threat & attack detection.
 - Visualise attacks coming from different locations in Map format for better understanding.
 - Gained understanding of TCP & IP protocols & how to detect suspicious traffic.
 
-### Tools Used
+## Tools Used
 
 - Wireshark for Network Analysis.
 - PCAP file for simulating SYN flood attack
